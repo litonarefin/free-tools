@@ -23,6 +23,7 @@
 *   [Slimvoice:](http://slimvoice.co/) Insanely simple invoices.
 *   [Wave:](https://www.waveapps.com/) Free & easy accounting, invoicing and more.
 *   [Invoice.to:](http://invoice.to/) Free invoice generator.
+*   [Bonsai:](https://www.hellobonsai.com/) Free invoices and online payments.
 
 ****FREE LEGAL DOCS****  
 
@@ -114,6 +115,7 @@
 *   [Smush.it:](https://wordpress.org/plugins/wp-smushit/) Image optimizer WordPress plugin.
 *   [Dunnnk:](http://dunnnk.com/) Beautiful mockups.
 *   [InstaMockup:](http://www.instamockup.com/) Create beautiful screenshots of your app or website.
+*   [Image Optimization API:](https://www.abstractapi.com/image-processing-optimization-api) Simple API to compress, optimize, and convert images
 
 ****FREE IMAGE EDITORS****  
 
