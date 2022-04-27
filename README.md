@@ -9,6 +9,9 @@
 *   [Bootstrap Zero:](http://bootstrapzero.com/) The largest open-source, free Bootstrap template collection.
 *   [Landing Harbor:](http://www.landingharbor.com/) Promote your mobile app with a free landing page.
 
+****FREE AUTHENTICATION****
+*   [MojoAuth](https://mojoauth.com/) Hassle free and Secure Passwordless Authentication
+
 ****FREE BRANDING & LOGO****  
 
 *   [Logaster:](https://www.logaster.com/) Professional online logo maker & generator.
