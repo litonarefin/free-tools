@@ -10,7 +10,7 @@
 *   [Landing Harbor:](http://www.landingharbor.com/) Promote your mobile app with a free landing page.
 
 ****FREE AUTHENTICATION****
-*   [MojoAuth](https://mojoauth.com/)Hassle free and Secure Passwordless Authentication
+*   [MojoAuth](https://mojoauth.com/) Hassle free and Secure Passwordless Authentication
 
 ****FREE BRANDING & LOGO****  
 
